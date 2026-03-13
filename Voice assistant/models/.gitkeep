@@ -1,0 +1,8 @@
+# This directory stores downloaded model files
+# Models are auto-downloaded on first run
+# 
+# Typical contents:
+# - faster-whisper models (tiny.en, base.en, etc.)
+# - openWakeWord models
+#
+# These files are large and should not be committed to git

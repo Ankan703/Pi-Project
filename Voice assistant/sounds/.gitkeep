@@ -1,0 +1,10 @@
+# Sound effects directory
+# Contains notification sounds for the assistant
+#
+# Expected files:
+# - wake.wav    : Played when wake word is detected
+# - error.wav   : Played on errors
+# - done.wav    : Played when task is complete
+#
+# These can be customized with your own sounds
+# Format: 16-bit PCM WAV, mono or stereo
